@@ -26,7 +26,7 @@ the sdk version and the build tools used in this project are :
 * targetSdkVersion 25
 
 # Tools
-Android Studio
+Android Studio 2.3.3
 ***
 # The final product
 
